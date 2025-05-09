@@ -59,7 +59,7 @@ npm run seed:db [email-***@****.com] [password-******] // This is just an exampl
 Some basic Git commands are:
 
 ```
-git clone https://github.com/mohamedsamara/mern-ecommerce.git
+git clone https://github.com/ss9180/ecommerce-website-mern
 cd project
 npm install
 ```
